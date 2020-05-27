@@ -1,6 +1,8 @@
 ## Welcome to Kayla's Official Website
 
-You can use the [editor on GitHub](https://github.com/kaycog/first-repository/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+As you can see, I'm making progress. Please ignore the following info on GitHub as I am still learning and don't want to delete anything.
+
+Who knows, it *could* be **very** important stuff. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
